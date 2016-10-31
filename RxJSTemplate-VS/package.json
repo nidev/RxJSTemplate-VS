@@ -5,5 +5,8 @@
   "main": "app.js",
   "author": {
     "name": "nidev"
+  },
+  "dependencies": {
+    "rxjs": "5.0.0-rc.1"
   }
 }
