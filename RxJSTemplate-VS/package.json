@@ -1,0 +1,9 @@
+{
+  "name": "rx-jstemplate-vs",
+  "version": "0.0.0",
+  "description": "RxJSTemplate-VS",
+  "main": "app.js",
+  "author": {
+    "name": "nidev"
+  }
+}
